@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to Run the Application
+1. Clone the project with `git clone https://github.com/samuelle107/hacker-news.git`.
+2. Navigate to the project folder.
+3. Run `npm i` to install the node modules.
+4. Run `npm start` to start the web application.
+5. Go to `localhost:3000` to view the application.
+
 ## Available Scripts
 
 In the project directory, you can run:
